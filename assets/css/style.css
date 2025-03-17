@@ -133,5 +133,8 @@ img {
     .att-item:hover {
         transform: none;
     }
+    .hero-content h2 {
+        font-size: 4vmin;
+    }
     
 }

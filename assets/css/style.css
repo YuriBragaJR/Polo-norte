@@ -127,3 +127,11 @@ img {
     margin: 0 0 3rem;
     width: 80%;
 }
+
+
+@media (max-width: 600px) {
+    .att-item:hover {
+        transform: none;
+    }
+    
+}

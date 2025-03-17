@@ -140,6 +140,8 @@ img {
         text-align: center;
         
     }
-    
+    .btn {
+        align-items: center;
+    }
     
 }

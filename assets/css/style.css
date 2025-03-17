@@ -134,7 +134,11 @@ img {
         transform: none;
     }
     .hero-content h2 {
-        font-size: 4vmin;
+        font-size: 5vmin;
+    }
+    .hero-content p {
+        text-align: center;
+        
     }
     
 }

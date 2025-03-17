@@ -41,6 +41,7 @@ img {
     border-radius: 5px;
     color: var(--color-light);
     transition: var(--transition);
+    position: relative;
 }
 
 .btn:hover {
@@ -134,14 +135,15 @@ img {
         transform: none;
     }
     .hero-content h2 {
-        font-size: 5vmin;
+        font-size: 8vmin;
+        text-align: left;
+        padding: 0 0 30px;
     }
     .hero-content p {
-        text-align: center;
+        text-align: left;
         
     }
-    .btn {
+    div .btn {
         align-items: center;
     }
-    
 }
